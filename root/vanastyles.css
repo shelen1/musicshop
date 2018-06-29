@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 <title>CSS Styles</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+/* logo */
+logo {
+margin-left:5%;
+}
 
-/* Style the webpage header */
+/* webpage header */
 .header {
     background-color: #4CAFFF;
     padding: 5px;
@@ -34,7 +37,7 @@
 }
 
 .topnav a.active {
-  background-color: #4CAFFF;
+  background-color: #6610F2;
   color: white;
 }
 
@@ -44,10 +47,10 @@
 }
 
 body {
-    background-color: powderblue;
+    background-color: rgba(102, 16, 242, 0.1);
 }
 h2 {
-    color: blue;
+    color: #6610F2;
     font-family: Helvetica;
     font-size: 200%;
 }
