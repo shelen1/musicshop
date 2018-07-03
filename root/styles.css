@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-AU">
 <title>CSS Styles</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +67,7 @@ li {
 /* Different states for links */
 
 a:link {
-    color: blue; 
+    color: white; 
     background-color: transparent; 
     text-decoration: none;
 }
